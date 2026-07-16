@@ -9,10 +9,6 @@
 
 **Senior AI Engineer** with 4+ years of experience building production-grade ML/NLP systems, LLM applications, and data-driven solutions. Passionate about developing AI-powered personalization engines, semantic search systems, and intelligent chatbots that drive business impact.
 
-| 📍 Location | 📧 Email |
-|---|---|---|
-| Bologna, Italy | [ushacse2018@gmail.com](mailto:ushacse2018@gmail.com) 
-
 ---
 
 ## 💼 Professional Experience
