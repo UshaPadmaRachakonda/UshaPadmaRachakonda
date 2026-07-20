@@ -17,8 +17,9 @@
 Languages: Python | SQL | JavaScript | TypeScript | Java
 ML/AI: PyTorch | TensorFlow | LangChain | Hugging Face | Scikit-learn
 Data: Pandas | NumPy | PySpark | BigQuery | PostgreSQL | MongoDB
-Cloud: AWS | Azure | GCP | Kubernetes | Docker
+Cloud & Deployment: AWS | Azure | GCP | Kubernetes | Docker Microservices | Git | CI/CD
 Backend: Django | Flask | REST APIs | Streamlit
+Process Automation: Webhooks | SDK Integration
 ```
 
 ## How to Reach Me?
