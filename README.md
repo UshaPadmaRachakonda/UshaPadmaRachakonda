@@ -23,8 +23,7 @@ Process Automation: Webhooks | SDK Integration
 ```
 
 ## How to Reach Me?
-📧 **Email:** [ushacse2018@gmail.com](mailto:ushacse2018@gmail.com)  
-📱 **Phone:** +39 3479325502  
+📧 **Email:** [ushacse2018@gmail.com](mailto:ushacse2018@gmail.com)   
 💼 **LinkedIn:** [Connect with me](#)  
 🐙 **GitHub:** [Check my repos](#)  
 
